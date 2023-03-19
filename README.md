@@ -21,19 +21,18 @@ Quark is a technical club whose mission is to educate members about new emerging
 <!-- Workshop Details -->
 ## Workshop Details 
 
-Our AI/ML Workshop will be a 2-day event, where you will get to learn about the basics of AI/ML, its applications in the industry, and hands-on experience in building machine learning models. The workshop will cover the following topics:
+Our AI/ML Workshop will be a 5-day event, where you will get to learn about the basics of AI/ML, its applications in the industry, and hands-on experience in building machine learning models. The workshop will cover the following topics:
 
 * 🤖 Introduction to AI/ML
 * 🔍 Supervised Learning
-* 🕵️ Unsupervised Learning
 * 🧠 Deep Learning
 * 💬 Natural Language Processing (NLP)
-* 👁️ Computer Vision
+* 🕵️ Hands on projects
 
 <!-- Registration -->
 ## Registration
 
-Registrations for the workshop are now open! Click [here](https://example.com) to register.
+Registrations for the workshop are now open! Click here to register.
 
 <!-- Prerequisites -->
 ## Prerequisites
@@ -48,19 +47,22 @@ The following are the prerequisites for attending the workshop:
 
 | Time              | Topic                           | Speaker         |
 | ----------------- | ------------------------------- | -------------- |
-| 10:00 AM - 11:00 AM | Introduction to AI/ML          | John Doe        |
-| 11:00 AM - 12:30 PM | Supervised Learning             | Jane Smith      |
-| 12:30 PM - 01:30 PM | Lunch Break                     |                |
-| 01:30 PM - 03:00 PM | Unsupervised Learning           | David Lee       |
-| 03:00 PM - 03:30 PM | Tea Break                       |                |
-| 03:30 PM - 05:00 PM | Deep Learning                   | John Doe        |
-| 05:00 PM - 06:30 PM | Natural Language Processing (NLP) | Jane Smith |
+| 10:00 AM - 11:00 AM | Introduction to AI/ML          |        |
+| 11:00 AM - 12:30 PM |            |       |
+| 12:30 PM - 01:30 PM |                    |                |
+| 01:30 PM - 03:00 PM |            |      |
+| 03:00 PM - 03:30 PM |                       |                |
+| 03:30 PM - 05:00 PM |                   |        |
+| 05:00 PM - 06:30 PM |  |      |
 
 <!-- Contact Us -->
 ## Contact Us
 
 If you have any queries regarding the workshop or our club, feel free to contact us:
 
-* Email: teamquark@xyz.com
-* LinkedIn: [Team Quark](https://www.linkedin.com/in/teamquark)
+* Email: 
+* LinkedIn: 
+
+<!-- Contact Us -->
+## Resources
 
